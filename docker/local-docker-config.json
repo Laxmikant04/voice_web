@@ -1,0 +1,10 @@
+{
+  "DB_ROOT_PASS": "voicewebroot",
+  "MYSQLHOST": "localhost",
+  "S3_CONFIG": {
+    "endpoint": "http://localhost:9001",
+    "accessKeyId": "accesskey",
+    "secretAccessKey": "secretkey",
+    "s3ForcePathStyle": true
+  }
+}
